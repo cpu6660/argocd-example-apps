@@ -5,6 +5,7 @@ metadata:
   labels:
     test-key: "test-value"
     test-key-1: "test-value-1"
+    test-key-2: "test-value-2"
 spec:
   ports:
   - port: 80
